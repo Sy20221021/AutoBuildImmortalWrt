@@ -53,9 +53,9 @@ PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
 # ARP绑定
 PACKAGES="$PACKAGES luci-i18n-arpbind-zh-cn"
 # 端口转发
-PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
+# PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
 # IP限速
-PACKAGES="$PACKAGES luci-i18n-eqos-zh-cn"
+# PACKAGES="$PACKAGES luci-i18n-eqos-zh-cn"
 # 流量控制
 # PACKAGES="$PACKAGES luci-i18n-sqm-zh-cn"
 # 域名解析
