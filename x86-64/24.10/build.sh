@@ -62,7 +62,7 @@ PACKAGES="$PACKAGES luci-i18n-sqm-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 # VPN服务
-PACKAGES="$PACKAGES luci-i18n-openvpn-server-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-openvpn-sv"
 # VPN服务
 PACKAGES="$PACKAGES luci-i18n-ipsec-vpnd-zh-cn"
 # VPN服务
