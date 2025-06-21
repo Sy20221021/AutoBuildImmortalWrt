@@ -61,7 +61,7 @@ PACKAGES="$PACKAGES luci-i18n-sqm-zh-cn"
 # 域名解析
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
 # VPN服务
-# PACKAGES="$PACKAGES luci-i18n-openvpn-server-zh-cn"
+PACKAGES="$PACKAGES luci-app-openvpn-server"
 # VPN服务
 PACKAGES="$PACKAGES luci-i18n-ipsec-vpnd-zh-cn"
 # VPN服务
