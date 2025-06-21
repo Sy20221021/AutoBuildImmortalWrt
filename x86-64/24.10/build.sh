@@ -35,13 +35,13 @@ PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 #24.10
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 # 终端
-PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"  
+PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 # 科学
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 # 科学
 PACKAGES="$PACKAGES luci-app-openclash"
 # 科学
-PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn" 
+PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 # 定时唤醒
 PACKAGES="$PACKAGES luci-i18n-timewol-zh-cn"
 # 多线多拨
@@ -50,13 +50,13 @@ PACKAGES="$PACKAGES luci-app-syncdial"
 PACKAGES="$PACKAGES luci-i18n-mwan3-zh-cn"
 # 挂载CIFS网络共享
 PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
-# ARP绑定                
+# ARP绑定
 PACKAGES="$PACKAGES luci-i18n-arpbind-zh-cn"
 # 端口转发
 PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
 # IP限速
 PACKAGES="$PACKAGES luci-i18n-eqos-zh-cn"
-# 流量控制 
+# 流量控制
 # PACKAGES="$PACKAGES luci-i18n-sqm-zh-cn"
 # 域名解析
 PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
