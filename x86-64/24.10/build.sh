@@ -39,11 +39,13 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-timewol-zh-cn"
 PACKAGES="$PACKAGES luci-app-syncdial"
-PACKAGES="$PACKAGES luci-app-mwan3"
-PACKAGES="$PACKAGES luci-app-mosquitto"
+PACKAGES="$PACKAGES luci-i18n-mwan3"
+PACKAGES="$PACKAGES luci-i18n-mosquitto"
 PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-arpbind-zh-cn"
-PACKAGES="$PACKAGES luci-app-ddns"
+PACKAGES="$PACKAGES luci-i18n-ddns"
+PACKAGES="$PACKAGES luci-i18n-openvpn
+PACKAGES="$PACKAGES luci-i18n-ipsec-vpnd-zh-cn
 PACKAGES="$PACKAGES openssh-sftp-server"
 # 增加几个必备组件 方便用户安装iStore
 PACKAGES="$PACKAGES fdisk"
