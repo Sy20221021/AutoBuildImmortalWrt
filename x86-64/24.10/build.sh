@@ -64,14 +64,14 @@ PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
 # ARP绑定
 PACKAGES="$PACKAGES luci-i18n-arpbind-zh-cn"
 # 端口转发
-# PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
 # IP限速
-# PACKAGES="$PACKAGES luci-i18n-eqos-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-eqos-zh-cn"
 # 流量控制
 PACKAGES="$PACKAGES luci-i18n-sqm-zh-cn"
 # 域名解析
-PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
-# PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 # VPN服务
 PACKAGES="$PACKAGES luci-app-openvpn-server"
 PACKAGES="$PACKAGES luci-i18n-openvpn-server-zh-cn"
@@ -97,13 +97,13 @@ PACKAGES="$PACKAGES luci-i18n-dufs-zh-cn"
 #PACKAGES="$PACKAGES luci-app-passwall2"
 #PACKAGES="$PACKAGES luci-i18n-nikki-zh-cn"
 # VPN
-PACKAGES="$PACKAGES luci-app-tailscale"
-PACKAGES="$PACKAGES luci-i18n-tailscale-zh-cn"
+#PACKAGES="$PACKAGES luci-app-tailscale"
+#PACKAGES="$PACKAGES luci-i18n-tailscale-zh-cn"
 # 分区扩容 by sirpdboy 
 PACKAGES="$PACKAGES luci-app-partexp"
 PACKAGES="$PACKAGES luci-i18n-partexp-zh-cn"
 # 酷猫主题 by sirpdboy 
-PACKAGES="$PACKAGES luci-theme-kucat"
+#PACKAGES="$PACKAGES luci-theme-kucat"
 # 网络测速 by sirpdboy 
 #PACKAGES="$PACKAGES luci-app-netspeedtest"
 #PACKAGES="$PACKAGES luci-i18n-netspeedtest-zh-cn"
