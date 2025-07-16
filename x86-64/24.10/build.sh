@@ -71,7 +71,7 @@ PACKAGES="$PACKAGES luci-i18n-arpbind-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-sqm-zh-cn"
 # 域名解析
 #PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
-#PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 # VPN服务
 PACKAGES="$PACKAGES luci-app-openvpn-server"
 PACKAGES="$PACKAGES luci-i18n-openvpn-server-zh-cn"
