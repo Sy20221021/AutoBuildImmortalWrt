@@ -59,12 +59,13 @@ PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 #PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-mwan3-zh-cn"
 
+# 多线多拨
+#PACKAGES="$PACKAGES luci-app-syncdial"
+# 多WAN负载均衡
+#PACKAGES="$PACKAGES luci-i18n-mwan3-zh-cn"
 # 定时唤醒
 PACKAGES="$PACKAGES luci-i18n-timewol-zh-cn"
-# 多线多拨
-PACKAGES="$PACKAGES luci-app-syncdial"
 # 挂载CIFS网络共享
 PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
 # ARP绑定
