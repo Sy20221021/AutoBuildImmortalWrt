@@ -83,9 +83,6 @@ PACKAGES="$PACKAGES luci-app-openvpn-server"
 PACKAGES="$PACKAGES luci-i18n-openvpn-server-zh-cn"
 # VPN服务
 PACKAGES="$PACKAGES luci-i18n-ipsec-vpnd-zh-cn"
-# 分区扩容
-PACKAGES="$PACKAGES luci-app-partexp"
-PACKAGES="$PACKAGES luci-i18n-partexp-zh-cn"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
