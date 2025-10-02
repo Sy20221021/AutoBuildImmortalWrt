@@ -65,7 +65,7 @@ PACKAGES="$PACKAGES luci-i18n-timewol-zh-cn"
 # 多线多拨
 PACKAGES="$PACKAGES luci-app-syncdial"
 # 多WAN负载均衡
-PACKAGES="$PACKAGES luci-i18n-mwan3-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-mwan3-zh-cn"
 # 挂载CIFS网络共享
 PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
 # ARP绑定
