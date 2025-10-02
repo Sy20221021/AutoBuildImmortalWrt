@@ -60,33 +60,6 @@ PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 
-# 定时唤醒
-PACKAGES="$PACKAGES luci-i18n-timewol-zh-cn"
-# 多线多拨
-PACKAGES="$PACKAGES luci-app-syncdial"
-# 多WAN负载均衡
-#PACKAGES="$PACKAGES luci-i18n-mwan3-zh-cn"
-# 挂载CIFS网络共享
-PACKAGES="$PACKAGES luci-i18n-cifs-mount-zh-cn"
-# ARP绑定
-PACKAGES="$PACKAGES luci-i18n-arpbind-zh-cn"
-# 端口转发
-#PACKAGES="$PACKAGES luci-i18n-upnp-zh-cn"
-# IP限速
-#PACKAGES="$PACKAGES luci-i18n-eqos-zh-cn"
-# 流量控制
-PACKAGES="$PACKAGES luci-i18n-sqm-zh-cn"
-# 域名解析
-#PACKAGES="$PACKAGES luci-i18n-ddns-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
-# VPN服务
-PACKAGES="$PACKAGES luci-app-openvpn-server"
-PACKAGES="$PACKAGES luci-i18n-openvpn-server-zh-cn"
-# VPN服务
-PACKAGES="$PACKAGES luci-i18n-ipsec-vpnd-zh-cn"
-# 分区扩容
-PACKAGES="$PACKAGES luci-app-partexp"
-PACKAGES="$PACKAGES luci-i18n-partexp-zh-cn"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
